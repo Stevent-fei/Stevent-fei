@@ -4,5 +4,4 @@
 * 🌱 I'm a back-end student.
 * 🤔 I am currently writing code in golang and shell.
 * ❤️ I like playing Onmyoji 🌩 and Crazy-racing Kart-rider 🚗.![fei's GitHub stats](https://camo.githubusercontent.com/d5d230c9430fb5a59816746dca3536072a4699cfe16941b44a0eff9cc273c6be/68747470733a2f2f706963322e7a68696d672e636f6d2f76322d32383032303030336434613439336337386438323032626136633335663137395f622e77656270)
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sun0225SUN&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> </div>
-
+<span > <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=golang" /> <img src="https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=java" /> </span>
